@@ -48,11 +48,11 @@ const week = [
     hours: "9-15"
   },
   {
-    title: "Czwartej",
+    title: "Czwartek",
     hours: "8-14"
   },
   {
-    title: "Piatek",
+    title: "Piątek",
     hours: "8-14"
   },
   {
@@ -61,7 +61,7 @@ const week = [
   },
   {
     title: "Niedziela",
-    hours: "nieczyne"
+    hours: "nieczynne"
   }
 ];
 
