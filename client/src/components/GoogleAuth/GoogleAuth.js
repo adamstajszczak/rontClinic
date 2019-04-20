@@ -75,7 +75,7 @@ class GoogleAuth extends React.Component {
                 style={{ textDecoration: 'none', color: '#fff' }}
                 href="/auth/google"
               >
-                Sign in
+                Zaloguj się
               </a>
             </Button>
           </Fade>
