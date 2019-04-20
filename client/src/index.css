@@ -1,0 +1,10 @@
+body {
+  font-family: "Roboto", sans-serif;
+  overflow: hidden !important;
+}
+.heading {
+  font-weight: 700;
+}
+.subheading {
+  font-weight: 300;
+}

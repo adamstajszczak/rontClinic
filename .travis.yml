@@ -1,0 +1,16 @@
+language: node_js
+node_js:
+- stable
+cache:
+  directories:
+  - node_modules
+script:
+- npm test
+
+deploy:
+  provider: heroku
+  api_key:
+    secure: 59ba03f8-dafb-4433-a0b5-e25065eeff4c
+  app: mediclinic-web
+  on:
+    repo: adamstajszczak/rontClinic
