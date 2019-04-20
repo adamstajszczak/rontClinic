@@ -75,7 +75,7 @@ const registry = [
     number: "61 428 25 02"
   },
   {
-    title: "Labolatorium:",
+    title: "Laboratorium:",
     number: "61 428 25 09"
   }
 ];
